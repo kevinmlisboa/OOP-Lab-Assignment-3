@@ -1,7 +1,7 @@
-Payment Application
+#Payment Application
 This is a Java application designed to facilitate placing orders for items, defining the quantity, unit price, and choosing a payment method (GCash, Maya, ShopeePay). The application calculates the total amount based on the order details and any applicable discounts offered by the chosen payment method, storing the result in the totalAmount attribute of the Order class.
 
-Specific Requirements
+#Specific Requirements
 PaymentApp class
 This class serves as the entry point for the application. It demonstrates how to create an Order object, set its properties (item, quantity, unit price, and payment method), and calculate the total amount based on the chosen payment method.
 
