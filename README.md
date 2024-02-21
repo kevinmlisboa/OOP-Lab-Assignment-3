@@ -26,7 +26,7 @@ The application should allow users to set the payment method for an order and **
 
 ### Sample Output
 
-```java
+```
 Order item is keyboard.
 Unit price is 300.0
 Quantity is 10
